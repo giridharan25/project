@@ -27,7 +27,7 @@ def check_price():
     
     title=soup.find(id='productTitle').get_text()
     
-    price=soup.find(id='priceblock_dealprice').get_text()
+    price=soup.find(id='priceblock_dealprice').get_text() #some products will have a tag priceblock_ourprice
     
     converted_price=price[2:]
     
