@@ -1,6 +1,6 @@
 # project Zara
 
-You can able to interact with Coco through voice.
+You can able to interact with Zara through voice.
 Coco will help you to search things in Google,
 search celebrity profile in Wikipedia, 
 to play music, search videos in YouTube, 
