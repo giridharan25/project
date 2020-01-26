@@ -16,7 +16,7 @@ and generate relavent voice message as a
 response for your message.
 
 
-# project Amazon_price_tracker
+# project Amazon price tracker
 
 With the help of this python code, we can track
 the price of a product by entering it's link.
