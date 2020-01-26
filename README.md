@@ -1,3 +1,13 @@
+# project Zara
+
+You can able to interact with Coco through voice.
+Coco will help you to search things in Google,
+search celebrity profile in Wikipedia, 
+to play music, search videos in YouTube, 
+to know the current time and to send E-mail 
+to your friends.
+
+
 # project CoCo
 
 This project is a Talk Back bot which will 
